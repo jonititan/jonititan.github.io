@@ -1,3 +1,6 @@
+---
+title: Blogging Like a Hacker
+---
 ## Welcome to an Aeropsace themed exploration of tools & data
 
 
