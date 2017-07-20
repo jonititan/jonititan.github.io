@@ -3,6 +3,7 @@
 
 
 **A little test using bokeh on UK MOD data from FOIA2017/0440**
-[FOIA2017/0440 Total Strength](jonititan.github.io/DataExploration/FOIA2017-0440/index.html) 
+
+[FOIA2017/0440 Total Strength](DataExploration/FOIA2017-0440/index.html) 
 
 
