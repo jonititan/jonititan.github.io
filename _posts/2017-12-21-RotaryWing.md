@@ -3,7 +3,6 @@ layout: post
 title: Rotary Wing Flight Dynamics
 ---
 
-
 {{ page.title }}
 ================
 
