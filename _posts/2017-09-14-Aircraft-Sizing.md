@@ -10,7 +10,7 @@ title: Aircraft Sizing
 
 Some months ago I did an python introduction tutorial to show to some of our students the power of Python for aircraft design.
 
-[Aircraft Sizing Worked Example](https://github.com/jonititan/AircraftDesign/blob/master/Aircraft%20sizing.ipynb)
+[Aircraft Sizing Worked Example](https://mybinder.org/v2/gh/jonititan/AircraftDesign/master?filepath=AircraftSizing.ipynb)
 
 I did a worked example from chapter 3 from [Aircraft Design: A Conceptual Approach](https://www.amazon.co.uk/Aircraft-Design-Conceptual-Approach-Education/dp/1600869114) 3rd edition by Daniel P. Raymer.  An excellent resource for learning the conceptual design of aircraft indeed. 
 
