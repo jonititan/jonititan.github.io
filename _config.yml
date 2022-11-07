@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-feed
 title: Flower of Design
 description: Beautiful design occurs in engineering when an elegant solution can be recognised and appreciated.
 author: Dr Jonathan G. Pelham
